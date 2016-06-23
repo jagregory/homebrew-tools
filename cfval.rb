@@ -1,8 +1,8 @@
 class Cfval < Formula
   desc "The CloudFormation template validator"
   homepage "https://github.com/jagregory/cfval"
-  url "https://github.com/jagregory/cfval/releases/download/v0.2.0/cfval-0.2.0.tar.gz"
-  sha256 "076c6cba05047a1ce30764c9ad5369d83434d92009e016a3340beefdb898a0ef"
+  url "https://github.com/jagregory/cfval/releases/download/v0.3.0/cfval-0.3.0.tar.gz"
+  sha256 "1f1811970bba43a2c0956448db725384f59d3fe7fda2527f447505e57198280c"
 
   bottle :unneeded
 
