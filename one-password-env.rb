@@ -1,8 +1,8 @@
 class OnePasswordEnv < Formula
   homepage "https://github.com/jagregory/1password-env"
-  url "https://github.com/jagregory/1password-env/archive/v1.0.0-al.tar.gz"
-  version "1.0.0-alpha"
-  sha256 "db6cef4f55f26abe7d7653b981585e54d25d9e904302c4d164f36ee82663e8ce"
+  url "https://github.com/jagregory/1password-env/archive/v1.0.0.tar.gz"
+  version "1.0.0"
+  sha256 "23149ecb62501e7bb39b6b7493a6b30487391047258e0adf6c4a2e2a962af949"
 
   depends_on "jq"
 
